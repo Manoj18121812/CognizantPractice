@@ -1,4 +1,4 @@
-package Number;
+package String.Number;
 
 public class SwapWithoutThird {
     public static void main(String[] args) {
