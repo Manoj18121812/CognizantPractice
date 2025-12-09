@@ -1,4 +1,4 @@
-package Number;
+package String.Number;
 
 public class SwapNumber {
     public static void main(String[] args) {
