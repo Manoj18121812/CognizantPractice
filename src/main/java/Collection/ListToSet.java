@@ -1,0 +1,14 @@
+package Collection;
+
+import java.util.*;
+
+public class ListToSet {
+    public static void main(String[] args) {
+
+        List<Integer> list = Arrays.asList(1,2,3,4,5,6,7,8,9,10);
+        Set<Integer> set = new HashSet<>(list);
+        System.out.println(set);
+
+
+    }
+}
